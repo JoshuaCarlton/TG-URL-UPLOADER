@@ -34,7 +34,7 @@ URL | filename | username | password"""
 --------
 Telegram ID: <code>{}</code>
 Plan name: Free User
-Expires on: 31/12/2020"""
+Expires on: 31/12/2030"""
     HELP_USER = """Hai am URL Uploader bot..
     
 1. Send url (Link|New Name with Extension).
@@ -47,6 +47,8 @@ Expires on: 31/12/2020"""
 
 --------
 Send /me to know current plan details
+
+NB :- <b>Do Not Use this Bot for Upload Pornography</b>
 
 © @MC_LinkzZ \n <a href="https://t.me/ShahiR_Ps">༒ ☬Pᴀκκι☬ ༒ ⁪⁬⁮⁮⁮ ‌‌‌‌</a>"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
